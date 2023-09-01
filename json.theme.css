@@ -1,0 +1,28 @@
+/**
+ * @name json
+ * @author json
+ * @description json's theme
+ * @version 0.0.1
+ */
+
+:root {
+	--my-size: 13px;
+	--my-color: #000000;
+	--radius-xs: 8px;
+}
+
+.guilds-2JjMmN,
+.listItem-3SmSlK {
+	width: 69px;
+}
+
+.wrapper-2PSQCG,
+.svg-2ifYOU {
+	width: 69px;
+	height: 69px;
+}
+
+.expandedFolderBackground-1kSAf6 {
+	left: 8px;
+	width: 69px;
+}
